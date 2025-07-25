@@ -1,0 +1,18 @@
+2025-07-08 22:26:51,530 INFO Starting data harvest
+2025-07-08 22:26:58,439 INFO Fetched page 1: 200 records
+2025-07-08 22:27:06,564 INFO Fetched page 2: 200 records
+2025-07-08 22:27:09,532 INFO Fetched page 3: 16 records
+2025-07-08 22:27:09,990 ERROR Failed to save cache: 'charmap' codec can't encode character '\u2116' in position 2416101: character maps to <undefined>
+2025-07-08 22:27:09,994 INFO Harvest complete: 416 records in 18.5s
+2025-07-08 22:32:44,212 INFO Starting data harvest
+2025-07-08 22:32:50,493 INFO Fetched page 1: 200 records
+2025-07-08 22:32:58,593 INFO Fetched page 2: 200 records
+2025-07-08 22:33:02,045 INFO Fetched page 3: 16 records
+2025-07-08 22:33:02,616 ERROR Failed to save cache: 'charmap' codec can't encode character '\u2116' in position 2416101: character maps to <undefined>
+2025-07-08 22:33:02,621 INFO Harvest complete: 416 records in 18.4s
+2025-07-08 22:39:21,119 INFO Starting data harvest
+2025-07-08 22:39:30,184 INFO Fetched page 1: 200 records
+2025-07-08 22:39:37,934 INFO Fetched page 2: 200 records
+2025-07-08 22:39:40,576 INFO Fetched page 3: 16 records
+2025-07-08 22:39:41,099 INFO Cache updated: 416 records, 1 categories
+2025-07-08 22:39:41,100 INFO Harvest complete: 416 records in 20.0s

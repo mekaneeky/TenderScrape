@@ -1,0 +1,9 @@
+{
+  "id": "new",
+  "classes": [],
+  "recipients": [
+    "alizawahry1@gmail.com"
+  ],
+  "interval": "15min",
+  "schedule": "*/15 * * * *"
+}

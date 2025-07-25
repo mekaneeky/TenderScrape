@@ -1,0 +1,8 @@
+{
+  "resend_api_key": "",
+  "email_from": "noreply@yourdomain.com",
+  "email_subject_prefix": "[TenderDash]",
+  "default_recipients": "",
+  "harvest_frequency": 10,
+  "max_pages": 3
+}
